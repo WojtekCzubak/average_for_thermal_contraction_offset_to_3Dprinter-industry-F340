@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.5.2, 2019-06-29T23:20:15. -->
+<!-- Written by QtCreator 4.5.2, 2019-06-29T23:55:04. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -340,6 +340,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">average_for_thermal_contraction_offset_to_3Dprinter-industry-F340</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
+    <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">true</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/wojtek/build-average_for_thermal_contraction_offset_to_3Dprinter-industry-F340-Desktop-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>

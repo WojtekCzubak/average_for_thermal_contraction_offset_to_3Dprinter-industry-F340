@@ -30,6 +30,6 @@ int main()
           cout<<tab[i]<<" ";
 
   cout<<endl;
-  system("pause");
+  //system("pause");
   return 0;
 }
